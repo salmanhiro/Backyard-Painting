@@ -1,2 +1,12 @@
 # -BackyardHacks-Backyard-Painting
-Generating backyard panorama paintings
+## Generating panorama paintings
+
+In the COVID-19 situation, our exploration is limited. Maybe wandering around the internet should be a good idea.
+
+Painting natural panoramas is something special, and needs a lot of techniques. However, by this time you could generate your own panorama paintings, and use it for wallpaper or anything.
+
+This project was a simple implementation of Neural Style Transfer, some kind of generative network. Running on Tensorflow platform, this network utilize transfer model from the tensorhub. 
+
+![res](result.png)
+
+
