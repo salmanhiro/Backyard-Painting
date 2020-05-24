@@ -14,3 +14,11 @@ This project was a simple implementation of Neural Style Transfer, some kind of 
 * Open the notebook, it is better to open it in Colab unless you have fancy GPU.
 * Just run the cell. You have two options whether to upload the files or copying the URLs. 
 * Enjoy!
+
+# References
+
+[Neural style transfer](https://www.tensorflow.org/tutorials/generative/style_transfer)
+
+[magenta/arbitrary-image-stylization-v1-256](https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/fp16/prediction/1)
+
+Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "A neural algorithm of artistic style." arXiv preprint arXiv:1508.06576 (2015).
