@@ -1,4 +1,4 @@
-# -BackyardHacks-Backyard-Painting
+# Backyard-Painting
 ## Generating panorama paintings
 
 In the COVID-19 situation, our exploration is limited. Maybe wandering around the internet should be a good idea.
