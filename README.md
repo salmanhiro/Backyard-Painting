@@ -15,7 +15,7 @@ This project was a simple implementation of Neural Style Transfer, some kind of 
 * Just run the cell. You have two options whether to upload the files or copying the URLs. 
 * Enjoy!
 
-# You could contribute for my future plan to pursue my PhD too!
+### You could contribute for my future plan to pursue my PhD too!
 
 <a href="https://www.buymeacoffee.com/TtzlObWgv" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
